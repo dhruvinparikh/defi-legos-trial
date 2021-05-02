@@ -1,7 +1,7 @@
 {
   "name": "defi-legos-trial",
   "description": "Defi legos library",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
