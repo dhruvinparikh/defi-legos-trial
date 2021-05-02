@@ -1,7 +1,7 @@
 {
   "name": "defi-legos-trial",
   "description": "Defi legos library",
-  "version": "1.0",
+  "version": "1.0.0",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
@@ -58,7 +58,7 @@
     "eth-sig-util": "^3.0.0",
     "ethereumjs-util": "^7.0.7",
     "ethereumjs-wallet": "^1.0.1",
-    "hardhat": "^2.0.6",
+    "hardhat": "^2.2.1",
     "hardhat-gas-reporter": "^1.0.4",
     "keccak256": "^1.0.2",
     "lodash.startcase": "^4.4.0",
