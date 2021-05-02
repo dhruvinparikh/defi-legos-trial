@@ -1,0 +1,31 @@
+{
+  "name": "@dhruvinparikh/contracts",
+  "description": "Defi legos contract interfaces",
+  "version": "1.0",
+  "files": [
+    "**/*.sol",
+    "/build/contracts/*.json",
+    "!/mocks/**/*"
+  ],
+  "scripts": {
+    "prepare": "bash ../scripts/prepare-contracts-package.sh",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhruvinparikh/defi-legos-trial.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "defi",
+    "smart",
+    "contracts",
+    "security"
+  ],
+  "author": "Dhruvin Parikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruvinparikh/defi-legos-trial/issues"
+  },
+  "homepage": "https://dhruvinparikh.github.io"
+}
