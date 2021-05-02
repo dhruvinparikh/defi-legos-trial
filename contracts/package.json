@@ -1,7 +1,7 @@
 {
   "name": "@dhruvinparikh/contracts",
   "description": "Defi legos contract interfaces",
-  "version": "0.1.0-rc.0",
+  "version": "0.1.0",
   "files": [
     "**/*.sol",
     "/build/contracts/*.json",
